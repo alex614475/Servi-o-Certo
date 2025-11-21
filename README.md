@@ -1,9 +1,14 @@
 
 
-# Serviço Certo — Portfólio Profissional
+##  Sobre o Projeto
 
-Este é um README **refinado, chamativo e com foco em portfólio**, ideal para recrutadores.  
-Inclui **prévia visual**, seções organizadas e um design inspirado em landing pages modernas.
+O **Serviço Certo** é uma plataforma que conecta clientes a profissionais de forma rápida e eficiente.  
+Este repositório apresenta o projeto como **portfólio**, destacando design, arquitetura e funcionalidades.  
+O código-fonte não é público, mas o aplicativo pode ser testado online:
+
+ **https://servicocerto.app.br**
+
+---
 
 
 
@@ -45,15 +50,7 @@ Inclui **prévia visual**, seções organizadas e um design inspirado em landing
 
 ---
 
-##  Sobre o Projeto
 
-O **Serviço Certo** é uma plataforma que conecta clientes a profissionais de forma rápida e eficiente.  
-Este repositório apresenta o projeto como **portfólio**, destacando design, arquitetura e funcionalidades.  
-O código-fonte não é público, mas o aplicativo pode ser testado online:
-
- **https://servicocerto.app.br**
-
----
 
 ##  Instalação do App
 
