@@ -66,11 +66,6 @@ Baixe a versão mais recente para testes:
 Desenvolvedor Full Stack  
 LinkedIn: *adicione aqui seu link*
 
----
 
-##  Observação
 
-Se quiser que eu crie **o GIF de navegação**, basta enviar os vídeos ou solicitar a captura passo a passo!
-
----
 
